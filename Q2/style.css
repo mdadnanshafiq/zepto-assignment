@@ -1,0 +1,12 @@
+body {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+#mid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+}
